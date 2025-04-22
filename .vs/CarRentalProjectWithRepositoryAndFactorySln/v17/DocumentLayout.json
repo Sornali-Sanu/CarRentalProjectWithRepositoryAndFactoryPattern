@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|c:\\users\\sagor\\desktop\\carrentalprojectwithrepositoryandfactorysln\\carrentalprojectwithrepositoryandfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\manager\\oldmodelcarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\manager\\oldmodelcarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\manager\\newmodelcarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\manager\\newmodelcarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\manager\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\manager\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\interfaces\\icarrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\interfaces\\icarrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\factory\\oldcarmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\factory\\oldcarmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\factory\\newcarmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\factory\\newcarmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\factory\\carrentalmanagerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\factory\\carrentalmanagerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\factory\\basecarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\factory\\basecarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\enums\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\enums\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\carrentalprojectwithrepositoryandfactory\\enums\\brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BDA7C8-FEE8-45C4-9EB5-14C11662362E}|CarRentalProjectWithRepositoryAndFactory\\CarRentalProjectWithRepositoryAndFactory.csproj|solutionrelative:carrentalprojectwithrepositoryandfactory\\enums\\brands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Program.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Program.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Program.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Program.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAQwAkBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:20:34.475Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Manager\\ICarService.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Manager\\ICarService.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Manager\\ICarService.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Manager\\ICarService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:31:09.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewModelCarManager.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Manager\\NewModelCarManager.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Manager\\NewModelCarManager.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Manager\\NewModelCarManager.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Manager\\NewModelCarManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:32:14.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OldModelCarManager.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Manager\\OldModelCarManager.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Manager\\OldModelCarManager.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Manager\\OldModelCarManager.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Manager\\OldModelCarManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:33:17.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Repository\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Repository\\CarRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwE0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:41:36.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OldCarModelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Factory\\OldCarModelFactory.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Factory\\OldCarModelFactory.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Factory\\OldCarModelFactory.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Factory\\OldCarModelFactory.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:39:32.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Entities\\Car.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Entities\\Car.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:24:18.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarRental.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Interfaces\\ICarRental.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Interfaces\\ICarRental.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Interfaces\\ICarRental.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Interfaces\\ICarRental.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:29:01.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewCarModelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Factory\\NewCarModelFactory.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Factory\\NewCarModelFactory.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Factory\\NewCarModelFactory.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Factory\\NewCarModelFactory.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:38:40.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarRentalManagerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Factory\\CarRentalManagerFactory.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Factory\\CarRentalManagerFactory.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Factory\\CarRentalManagerFactory.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Factory\\CarRentalManagerFactory.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:37:00.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseCarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Factory\\BaseCarFactory.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Factory\\BaseCarFactory.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Factory\\BaseCarFactory.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Factory\\BaseCarFactory.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:35:26.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarType.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Enums\\CarType.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Enums\\CarType.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Enums\\CarType.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Enums\\CarType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:26:29.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Brands.cs",
+              "DocumentMoniker": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Enums\\Brands.cs",
+              "RelativeDocumentMoniker": "CarRentalProjectWithRepositoryAndFactory\\Enums\\Brands.cs",
+              "ToolTip": "C:\\Users\\SAGOR\\Desktop\\CarRentalProjectWithRepositoryAndFactorySln\\CarRentalProjectWithRepositoryAndFactory\\Enums\\Brands.cs",
+              "RelativeToolTip": "CarRentalProjectWithRepositoryAndFactory\\Enums\\Brands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:26:04.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
